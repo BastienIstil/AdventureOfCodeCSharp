@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AOC_2015_Day_1
+namespace AOC_2015_Day_01
 {
     class Program
     {

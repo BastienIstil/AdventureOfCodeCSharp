@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AOC_2015_Day_1.Properties {
+namespace AOC_2015_Day_02.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace AOC_2015_Day_1.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("AOC_2015_Day_1.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("AOC_2015_Day_02.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,7 +61,63 @@ namespace AOC_2015_Day_1.Properties {
         }
         
         /// <summary>
-        ///   Recherche une chaîne localisée semblable à ((((()(()(((((((()))(((()((((()())(())()(((()((((((()((()(()(((()(()((())))()((()()())))))))))()((((((())((()))(((((()(((((((((()()))((()(())()((())((()(()))((()))()))()(((((()(((()()))()())((()((((())()())()((((())()(()(()(((()(())(()(())(((((((())()()(((())(()(()(()(())))(()((((())((()))(((()(()()(((((()()(()(((()(((((())()))()((()(()))()((()((((())((((())(()(((())()()(()()()()()(())((((())((())(()()))()((((())))((((()())()((((())((()())((())(())(((((()((((()(((()((((())(()(((()()))()))((((((()((())()())) [le reste de la chaîne a été tronqué]&quot;;.
+        ///   Recherche une chaîne localisée semblable à 3x11x24
+        ///13x5x19
+        ///1x9x27
+        ///24x8x21
+        ///6x8x17
+        ///19x18x22
+        ///10x9x12
+        ///12x2x5
+        ///26x6x11
+        ///9x23x15
+        ///12x8x17
+        ///13x29x10
+        ///28x18x6
+        ///22x28x26
+        ///1x5x11
+        ///29x26x12
+        ///8x28x29
+        ///27x4x21
+        ///12x7x16
+        ///7x4x23
+        ///15x24x8
+        ///15x14x2
+        ///11x6x29
+        ///28x19x9
+        ///10x3x1
+        ///5x20x13
+        ///10x25x1
+        ///22x17x7
+        ///16x29x3
+        ///18x22x8
+        ///18x11x19
+        ///21x24x20
+        ///4x7x17
+        ///22x27x12
+        ///1x26x6
+        ///5x27x24
+        ///29x21x3
+        ///25x30x2
+        ///21x26x2
+        ///10x24x27
+        ///10x16x28
+        ///18x16x23
+        ///6x5x26
+        ///19x12x20
+        ///6x24x25
+        ///11x20x7
+        ///4x8x5
+        ///2x13x11
+        ///11x17x1
+        ///13x24x6
+        ///22x29x16
+        ///4x24x20
+        ///10x25x10
+        ///12x29x23
+        ///23x27x12
+        ///11x21x9
+        ///13x2 [le reste de la chaîne a été tronqué]&quot;;.
         /// </summary>
         internal static string Puzzle_Input_Part_1 {
             get {
@@ -70,7 +126,63 @@ namespace AOC_2015_Day_1.Properties {
         }
         
         /// <summary>
-        ///   Recherche une chaîne localisée semblable à ((((()(()(((((((()))(((()((((()())(())()(((()((((((()((()(()(((()(()((())))()((()()())))))))))()((((((())((()))(((((()(((((((((()()))((()(())()((())((()(()))((()))()))()(((((()(((()()))()())((()((((())()())()((((())()(()(()(((()(())(()(())(((((((())()()(((())(()(()(()(())))(()((((())((()))(((()(()()(((((()()(()(((()(((((())()))()((()(()))()((()((((())((((())(()(((())()()(()()()()()(())((((())((())(()()))()((((())))((((()())()((((())((()())((())(())(((((()((((()(((()((((())(()(((()()))()))((((((()((())()())) [le reste de la chaîne a été tronqué]&quot;;.
+        ///   Recherche une chaîne localisée semblable à 3x11x24
+        ///13x5x19
+        ///1x9x27
+        ///24x8x21
+        ///6x8x17
+        ///19x18x22
+        ///10x9x12
+        ///12x2x5
+        ///26x6x11
+        ///9x23x15
+        ///12x8x17
+        ///13x29x10
+        ///28x18x6
+        ///22x28x26
+        ///1x5x11
+        ///29x26x12
+        ///8x28x29
+        ///27x4x21
+        ///12x7x16
+        ///7x4x23
+        ///15x24x8
+        ///15x14x2
+        ///11x6x29
+        ///28x19x9
+        ///10x3x1
+        ///5x20x13
+        ///10x25x1
+        ///22x17x7
+        ///16x29x3
+        ///18x22x8
+        ///18x11x19
+        ///21x24x20
+        ///4x7x17
+        ///22x27x12
+        ///1x26x6
+        ///5x27x24
+        ///29x21x3
+        ///25x30x2
+        ///21x26x2
+        ///10x24x27
+        ///10x16x28
+        ///18x16x23
+        ///6x5x26
+        ///19x12x20
+        ///6x24x25
+        ///11x20x7
+        ///4x8x5
+        ///2x13x11
+        ///11x17x1
+        ///13x24x6
+        ///22x29x16
+        ///4x24x20
+        ///10x25x10
+        ///12x29x23
+        ///23x27x12
+        ///11x21x9
+        ///13x2 [le reste de la chaîne a été tronqué]&quot;;.
         /// </summary>
         internal static string Puzzle_Input_Part_2 {
             get {
